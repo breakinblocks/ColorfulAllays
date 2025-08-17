@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#colorfulallays:allay_spawn_biome",
+  "spawners": [
+    {
+      "type": "minecraft:allay",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}
